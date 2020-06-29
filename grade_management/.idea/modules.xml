@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grade_management.iml" filepath="$PROJECT_DIR$/grade_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade_management_dao/grade_management_dao.iml" filepath="$PROJECT_DIR$/grade_management_dao/grade_management_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade_management_domain/grade_management_domain.iml" filepath="$PROJECT_DIR$/grade_management_domain/grade_management_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade_management_service/grade_management_service.iml" filepath="$PROJECT_DIR$/grade_management_service/grade_management_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grade_management_web/grade_management_web.iml" filepath="$PROJECT_DIR$/grade_management_web/grade_management_web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="161f87ed-f215-42ae-a6d5-663e32a228a5" name="Default Changelist" comment="本地idea添加到仓库">
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/demo9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dau1_eesy_vue/src/main/webapp/js/vuejs-2.5.16.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/grade_management_dao/target/" />
+    <ignored path="$PROJECT_DIR$/grade_management_service/target/" />
+    <ignored path="$PROJECT_DIR$/grade_management_domain/target/" />
+    <ignored path="$PROJECT_DIR$/grade_management_util/target/" />
+    <ignored path="$PROJECT_DIR$/grade_management_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moment.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/grade_management_domain/src/main/java/com/grade/management/domain/Grade.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/PointController.java" />
+        <option value="$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/CourseDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/IGradeService.java" />
+        <option value="$PROJECT_DIR$/grade_management_domain/src/main/java/com/grade/management/domain/StudentCourse.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/resources/mapper/gradeMapper.xml" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/utils.java" />
+        <option value="$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/GradeDao.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/GradeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/grade-show.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/GradeController.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-add.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/script.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/point-edit.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-desc.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-show.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/main.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-add.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-main.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/ICourseSelectService.java" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/CourseSelectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/CourseSelectDao.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-grade-desc.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/CourseSelectController.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-selected-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/point-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-grade-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-select-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-selected-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/grade-admin.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-list-admin.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/IUserInfoService.java" />
+        <option value="$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/admin-add.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/UserInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/header.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/link.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/admin-list.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-show.jsp" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/aside.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\java\maven\maven_repository" />
+        <option name="mavenHome" value="E:/java/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\java\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grade_management" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grade_management" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grade_management_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="grade_management_web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="285" />
+    <option name="y" value="5" />
+    <option name="width" value="1095" />
+    <option name="height" value="485" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp\pages" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\resources" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp\plugins\jQuery" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp\pages" />
+      <recent name="F:\JavaWorkSpace\grade_management\grade_management_web\src\main\webapp\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="grade-management" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/grade_management_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.1001" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49780" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="161f87ed-f215-42ae-a6d5-663e32a228a5" name="Default Changelist" comment="" />
+      <created>1589078902890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589078902890</updated>
+      <workItem from="1589078907283" duration="5508000" />
+      <workItem from="1589165699955" duration="455000" />
+      <workItem from="1589166208575" duration="4427000" />
+      <workItem from="1589335800338" duration="2226000" />
+      <workItem from="1589505239028" duration="7455000" />
+      <workItem from="1589595336659" duration="3859000" />
+      <workItem from="1589849819481" duration="27862000" />
+      <workItem from="1590036846992" duration="21830000" />
+      <workItem from="1590199093655" duration="593000" />
+      <workItem from="1591920303692" duration="12827000" />
+      <workItem from="1591961332454" duration="601000" />
+      <workItem from="1592009456453" duration="130190000" />
+      <workItem from="1592527534235" duration="20609000" />
+      <workItem from="1592616693075" duration="9378000" />
+      <workItem from="1592785899849" duration="40281000" />
+      <workItem from="1592892644692" duration="47095000" />
+      <workItem from="1593050665099" duration="17762000" />
+      <workItem from="1593260057426" duration="2000" />
+      <workItem from="1593306208209" duration="3556000" />
+      <workItem from="1593324816068" duration="109000" />
+      <workItem from="1593398507411" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="356731000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1771457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58350515" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3707518" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.29241517" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32984033" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16516966" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285273" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34191555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42224512" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="bottom" id="Application Servers" order="16" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.29241517" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32984033" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="本地idea添加到仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="本地idea添加到仓库" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/CourseServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/GradeDao.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/grade-show.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/main.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/script.jsp" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/resources/spring-security.xml" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/ICourseSelectService.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/CourseSelectServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/CourseSelectDao.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/resources/db.properties" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/resources/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-selected-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-show.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/point-edit.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/point-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-add.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-grade-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-main.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-select-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/GradeServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/CourseController.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/grade-admin.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-list-admin.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/UserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/UserInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/IUserInfoService.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_dao/src/main/java/com/grade/management/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_domain/src/main/java/com/grade/management/domain/UserInfo.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/StudentServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_service/src/main/java/com/grade/management/service/impl/UserInfoServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/admin-add.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-grade-desc.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/header.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-select-desc.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/link.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/admin-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/aside.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/course-add.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/UserInfoController.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-selected-list.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-show.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/GradeController.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/CourseSelectController.java" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/webapp/pages/student-show-s.jsp" />
+    <entry file="file://$PROJECT_DIR$/grade_management_web/src/main/java/com/grade/management/controller/StudentController.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>grade_management_dao</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper SYSTEM "http://mybatis.org/dtd/mybatis-3-mapper.dtd" PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN">
+
+        -<mapper namespace="com.csjyjy.yjy.mapper.ConfigMapper">
+
+
+    -<resultMap type="com.csjyjy.yjy.entity.Config" id="BaseResultMap">
+
+    <id property="id" jdbcType="INTEGER" column="id"/>
+
+    <result property="type" jdbcType="VARCHAR" column="type"/>
+
+    <result property="content" jdbcType="VARCHAR" column="content"/>
+
+    <result property="name" jdbcType="VARCHAR" column="name"/>
+
+    <result property="state" jdbcType="VARCHAR" column="state"/>
+
+    <result property="status" jdbcType="VARCHAR" column="status"/>
+
+</resultMap>
+
+    <sql id="Base_Column_List">id, type, content,name,state,status </sql>
+
+
+    -<select id="listConfigBytype" resultMap="BaseResultMap" parameterType="com.csjyjy.yjy.entity.Config">
+    select*from configwhere 1=1
+    <if test="type != null">and type = #{type,jdbcType=VARCHAR} </if>
+
+    <if test="content != null">and content like concat('%',#{content,jdbcType=VARCHAR},'%') </if>
+    and state = "true"
+</select>
+
+
+    -<select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer">
+    select
+    <include refid="Base_Column_List"/>
+    from configwhere id = #{id,jdbcType=INTEGER}
+</select>
+
+    <update id="deleteByPrimaryKey" parameterType="java.lang.Integer">update configset state = "false"where id = #{id,jdbcType=INTEGER} </update>
+
+    <insert id="insert" parameterType="com.csjyjy.yjy.entity.Config">insert into config (id, type, content,name,state,status)values (#{id,jdbcType=INTEGER}, #{type,jdbcType=VARCHAR}, #{content,jdbcType=VARCHAR},#{name,jdbcType=VARCHAR},#{state,jdbcType=VARCHAR},#{status,jdbcType=VARCHAR}) </insert>
+
+
+    -<update id="updateByPrimaryKey" parameterType="com.csjyjy.yjy.entity.Config">
+    update configset
+    <if test="type != null">type = #{type,jdbcType=VARCHAR}, </if>
+
+    <if test="content != null">content = #{content,jdbcType=VARCHAR}, </if>
+
+    <if test="name != null">name = #{name,jdbcType=VARCHAR}, </if>
+
+    <if test="status != null">status = #{status,jdbcType=VARCHAR} </if>
+    where id = #{id,jdbcType=INTEGER} and state = "true"
+</update>
+
+</mapper>

@@ -1,0 +1,6 @@
+com\grade\management\controller\StudentController.class
+com\grade\management\controller\UserInfoController.class
+com\grade\management\controller\CourseController.class
+com\grade\management\controller\GradeController.class
+com\grade\management\controller\PointController.class
+com\grade\management\controller\CourseSelectController.class

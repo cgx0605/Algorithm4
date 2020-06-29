@@ -1,0 +1,9 @@
+com\grade\management\domain\Point.class
+com\grade\management\domain\Student.class
+com\grade\management\domain\PointModel.class
+com\grade\management\domain\UserInfo.class
+com\grade\management\domain\GradeModel.class
+com\grade\management\domain\PointGrade.class
+com\grade\management\domain\StudentCourse.class
+com\grade\management\domain\Course.class
+com\grade\management\domain\Grade.class

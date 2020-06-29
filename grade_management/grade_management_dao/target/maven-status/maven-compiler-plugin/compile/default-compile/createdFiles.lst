@@ -1,0 +1,7 @@
+com\grade\management\dao\UserInfoDao.class
+com\grade\management\dao\CourseSelectDao.class
+com\grade\management\dao\UserDao.class
+com\grade\management\dao\CourseDao.class
+com\grade\management\dao\StudentDao.class
+com\grade\management\dao\PointDao.class
+com\grade\management\dao\GradeDao.class

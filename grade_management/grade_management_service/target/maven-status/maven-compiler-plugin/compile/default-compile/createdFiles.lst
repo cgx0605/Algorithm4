@@ -1,0 +1,14 @@
+com\grade\management\service\impl\UserInfoServiceImpl.class
+com\grade\management\service\IGradeService.class
+com\grade\management\service\impl\UserServiceImpl.class
+com\grade\management\service\impl\CourseServiceImpl.class
+com\grade\management\service\impl\StudentServiceImpl.class
+com\grade\management\service\IStudentService.class
+com\grade\management\service\IPointService.class
+com\grade\management\service\IUserInfoService.class
+com\grade\management\service\ICourseService.class
+com\grade\management\service\ICourseSelectService.class
+com\grade\management\service\impl\GradeServiceImpl.class
+com\grade\management\service\impl\PointServiceImpl.class
+com\grade\management\service\impl\CourseSelectServiceImpl.class
+com\grade\management\service\IuserService.class
